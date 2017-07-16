@@ -1,4 +1,4 @@
-0. Install Docker (https://blog.jayway.com/2017/04/19/running-docker-on-bash-on-windows/)
+0. Install Docker and Docker Connect https://github.com/nicklz/docker_connect
 
 1. git clone git@github.com:nicklz/clarku_docker.git
 2. cd clarku_docker
